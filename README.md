@@ -8,6 +8,9 @@ Finish time: 10:30am
 
 Actual time needed to complete: 1hr
 
+## Collaborators
+Chris Coulan
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
