@@ -1,3 +1,14 @@
+## Number and name of feature: Create Counter
+
+Estimate of time needed to complete: 1hr
+
+Start time: 9:30am
+
+Finish time: 10:30am
+
+Actual time needed to complete: 1hr
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
